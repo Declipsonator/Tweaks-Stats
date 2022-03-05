@@ -12,7 +12,7 @@ jobs:
     name: github-repo-stats
     runs-on: ubuntu-latest
     steps:
-      - name: GHRS
+      - name: meteor
         uses: jgehrcke/github-repo-stats@HEAD
         with:
           ghpagesprefix: https://Declipsonator.github.io/Tweaks-Stats
