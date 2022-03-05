@@ -19,7 +19,7 @@ jobs:
           # Define the target repository, the repo to fetch
           # stats for and to generate the report for.
           repository: Declipsonator/Meteor-Tweaks
-          databranch: master
+          databranch: main
           # Required token privileges: Can read the target
           # repo, and can push to the repository this
           # workflow file lives in (to store data and
