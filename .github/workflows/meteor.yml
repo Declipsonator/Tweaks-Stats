@@ -1,4 +1,4 @@
-name: GHRS:ghrs
+name: meteor
 on:
   schedule:
     # Run this once per day.
