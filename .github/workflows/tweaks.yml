@@ -15,7 +15,7 @@ jobs:
       - name: GHRS
         uses: jgehrcke/github-repo-stats@HEAD
         with:
-          ghpagesprefix: https://Declipsonator.github.io/tweaks-stats
+          ghpagesprefix: https://Declipsonator.github.io/Tweaks-Stats
           # Define the target repository, the repo to fetch
           # stats for and to generate the report for.
           repository: Declipsonator/Meteor-Tweaks
