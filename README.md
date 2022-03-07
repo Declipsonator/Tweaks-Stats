@@ -1,2 +1,2 @@
 # Tweaks-Stats
-The statistics regarding visitors, clones, downloads etc of Meteor-Tweaks
+The statistics regarding visitors, clones, referers etc of Meteor-Tweaks
